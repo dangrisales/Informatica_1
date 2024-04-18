@@ -1,0 +1,6 @@
+Identificador: IK2030
+Titulo: El conde de montecristo
+Nombre del autor: Alejandro Dumas
+Precio: 70000
+Género: Aventura
+Prestamo: Si

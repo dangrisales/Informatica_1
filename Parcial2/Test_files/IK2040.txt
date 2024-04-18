@@ -1,0 +1,6 @@
+Identificador: IK2040
+Titulo: El retrato de Dorian Gray
+Nombre del autor: Oscar Wilde
+Precio: 50000
+Género: Drama
+Prestamo: No
