@@ -1,0 +1,5 @@
+Identificador: ERDDG_D
+Titulo: El Retrato De Dorian Gray
+Nombre del autor: Oscar Wilde
+Precio: 50000
+Género: Drama

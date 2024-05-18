@@ -1,0 +1,5 @@
+Identificador: EM_N1
+Titulo: El Masedonio
+Nombre del autor: Nicolas Guild
+Precio: 70000
+Género: Historia

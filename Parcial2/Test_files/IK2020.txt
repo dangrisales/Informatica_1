@@ -1,6 +1,0 @@
-Identificador: IK2020
-Titulo: Frankenstein
-Nombre del autor: Mary Shelley
-Precio: 30000
-Género: Aventura
-Prestamo: No
