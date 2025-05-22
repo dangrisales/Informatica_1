@@ -1,6 +1,0 @@
-Identificador: EM_N
-Titulo: El Medico
-Nombre del autor: Noah Gordon
-Precio: 30000
-Género: Novela
-
