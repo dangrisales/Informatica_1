@@ -1,4 +1,0 @@
-Identificador: TASK_2
-Descripcion: Lavar los platos 
-Responsable: Tomas 
-Estado: LISTO
