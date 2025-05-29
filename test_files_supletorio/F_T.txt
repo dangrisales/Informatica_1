@@ -1,0 +1,5 @@
+Identificador: F_T
+Título: Frankestein
+Nombre autor: Mary Shelly
+Precio: 70000
+Género: Terror
